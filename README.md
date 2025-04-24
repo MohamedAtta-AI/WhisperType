@@ -58,7 +58,3 @@ You can modify the Whisper model size in the code to balance between accuracy an
 - `small`: Good balance of speed and accuracy
 - `medium`: High accuracy, slower
 - `large`: Highest accuracy, slowest
-
-## License
-
-MIT
