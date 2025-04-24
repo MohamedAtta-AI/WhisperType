@@ -1,0 +1,7 @@
+SpeechRecognition
+pyautogui
+pynput
+PyAudio
+openai-whisper
+torch
+numpy
